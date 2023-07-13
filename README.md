@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isidora-stanic&size_weight=0.5&count_weight=1&layout=compact&langs_count=10&show_icons=true&hide=xslt,shaderlab,mathematica,hlsl,dockerfile,shell,rust)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isidora-stanic&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isidora-stanic&show_icons=true&hide=contribs,stars)
 
 <!--
 ### Hi there 👋
